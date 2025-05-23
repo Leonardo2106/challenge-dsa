@@ -1,0 +1,6 @@
+Struct:
+- modelo
+- marca
+- ano
+- voltagem
+- resistência
